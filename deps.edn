@@ -1,7 +1,2 @@
 {:deps {org.clojure/clojure      {:mvn/version "1.10.1"}
-        clj-python/libpython-clj {:mvn/version "1.45"}
-
-        nrepl/nrepl              {:mvn/version "0.7.0"}
-
-        refactor-nrepl           {:mvn/version "RELEASE"}
-        cider/cider-nrepl        {:mvn/version "RELEASE"}}}
+        clj-python/libpython-clj {:mvn/version "1.45"}}}

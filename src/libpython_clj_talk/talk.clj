@@ -79,3 +79,5 @@ y = 3 + x")
 (-> (cv2/imread "displaced.png")
     (numpy/transpose [1 0 2])
     (->> (cv2/imwrite "transposed.png")))
+
+;; see github.com/tristanstraub/blender-clj-addon
